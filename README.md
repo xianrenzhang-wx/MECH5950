@@ -1,8 +1,8 @@
-Multimodal Wearable Sleep Monitoring System
+## Multimodal Wearable Sleep Monitoring System
 
 This repository contains the Arduino firmware for a multimodal wearable system designed for continuous sleep-quality monitoring. The system integrates accelerometer-based respiratory and posture sensing with photoplethysmography (PPG) for cardiopulmonary monitoring, enabling the detection of sleep-related physiological events such as apnea, hypopnea, oxygen desaturation, and posture changes.
 
-Group Members
+## Group Members
 
 He Anwei
 
@@ -10,7 +10,7 @@ Wang Xu
 
 Wang Chaoqi
 
-Arduino Code Overview
+## Arduino Code Overview
 
 The Arduino code in this repository implements the embedded control and data acquisition logic for the wearable sleep-monitoring device. It is responsible for coordinating multiple sensors, preprocessing raw signals, and transmitting data for further analysis.
 
